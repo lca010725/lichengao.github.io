@@ -3,7 +3,7 @@ title: "White Book on Safety Evaluation of Generative Large Models (2024)"
 collection: publications
 category: books
 permalink: /publication/2024-12-28-book-title-number-1
-excerpt: 'State Key Laboratory of AI Safety, Chinese Academy of Sciences; The Third Research Institute of Ministry of Public Security, Ant Security Lab'
+excerpt: 'State Key Laboratory of AI Safety, Chinese Academy of Sciences; The Third Research Institute of Ministry of Public Security; Ant Security Lab.'
 date: 2024-12-28
 venue: 'CCF China Data 2024'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
