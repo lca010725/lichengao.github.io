@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Candidate of Computer Software and Theory, University of Chinese Academy of Sciences, 09/2022 - Present
+* Bachelor of Data Science and Big Data Technology, University of Science and Technology of China, 2018 - 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 07/2024 - Present: Research Intern
+  * Huawei Cloud, Pangu Reinforcement Learning Group
+  * **Safety Alignment**: Conducted multi-objective RLHF on the financial capabilities and security of the Pangu 7B large language model based on the OpenRLHF framework. Maintained the model's general financial capabilities while enhancing its security, achieving improvements in financial compliance abilities.
+  * **Latent Reasoning**: Developed a token-level routing strategy for large and small language models under latent reasoning mode based on the SGLang framework, which reduces the generation length and improves the generation speed.
+  * **Reasoning RL**: Developing a novel RL method for large language models based on model fusion decoding and self-sampling, in order to alleviate the entropy collapse phenomenon of large language models in math and coding reasoning tasks, enhance model exploration, and improve model reasoning ability.
+  * Supervisor: [Yunkun Xu](https://scholar.google.com/citations?user=E-xdIwkAAAAJ)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 10/2021 - 03/2022: Research Intern
+  * Zhejiang Yingyang Asset Management Co., Ltd.
+  * **Stock Factors Mining**: Developed a deep learning-based low-frequency stock selection model using Pytorch for data processing and factors mining. Tests on historical market transaction data show a compound return of 1.7\%.
 
 Publications
 ======
@@ -47,18 +33,24 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+  Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Technical**: C/C++, SQL, Python, Distributed training \& inference for LLM, Pytorch, [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF), [SGLang](https://github.com/sgl-project/sglang), [Deepspeed](https://github.com/deepspeedai/DeepSpeed)
+* **Awards**:
+  * USTC Top Talent Program Scholarship
+  * USTC Outstanding Student Scholarship
+  * Di Ao Scholarship
+  * Zeng Xianzi Scholarship
+  * 2nd Prize of Hefei Province in Chinese Mathematics Competition
+  * UCAS Merit Student
+* **Patents**: Granted Patent. "A Data Flywheel Fine-Tuning Method and Device" (Patent No. CN120234408A, 2025). Lead Inventor.
+  
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
