@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Here are my [English](https://lichengao.github.io/files/CV_en.pdf) and [Chinese](https://lichengao.github.io/files/CV_zh.pdf) CV files. 
+
 {% include base_path %}
 
 Education
@@ -17,14 +19,14 @@ Education
 Work experience
 ======
 * 07/2024 - Present: Research Intern
-  * Huawei Cloud, Pangu Reinforcement Learning Group
+  * *Huawei Cloud, Pangu Reinforcement Learning Group*
   * **Safety Alignment**: Conducted multi-objective RLHF on the financial capabilities and security of the Pangu 7B large language model based on the OpenRLHF framework. Maintained the model's general financial capabilities while enhancing its security, achieving improvements in financial compliance abilities.
   * **Latent Reasoning**: Developed a token-level routing strategy for large and small language models under latent reasoning mode based on the SGLang framework, which reduces the generation length and improves the generation speed.
   * **Reasoning RL**: Developing a novel RL method for large language models based on model fusion decoding and self-sampling, in order to alleviate the entropy collapse phenomenon of large language models in math and coding reasoning tasks, enhance model exploration, and improve model reasoning ability.
   * Supervisor: [Yunkun Xu](https://scholar.google.com/citations?user=E-xdIwkAAAAJ)
 
 * 10/2021 - 03/2022: Research Intern
-  * Zhejiang Yingyang Asset Management Co., Ltd.
+  * *Zhejiang Yingyang Asset Management Co., Ltd.*
   * **Stock Factors Mining**: Developed a deep learning-based low-frequency stock selection model using Pytorch for data processing and factors mining. Tests on historical market transaction data show a compound return of 1.7\%.
 
 Publications
