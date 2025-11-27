@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here are my [English](https://lichengao.github.io/files/CV_en.pdf) and [Chinese](https://lichengao.github.io/files/CV_zh.pdf) CV. 
+Here are my [English](https://lca010725.github.io/files/CV_en.pdf) and [Chinese](https://lca010725.github.io/files/CV_zh.pdf) CV. 
 
 {% include base_path %}
 
