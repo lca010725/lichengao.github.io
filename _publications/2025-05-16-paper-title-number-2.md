@@ -7,7 +7,7 @@ excerpt: '**Chengao Li**, Hanyu Zhang, Yunkun Xu, Hongyan Xue, Xiang Ao*, and Qi
 date: 2025-05-16
 venue: 'Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://lichengao.github.io/files/ACL2025_paper.pdf'
+paperurl: 'https://lca010725.github.io/files/ACL2025_paper.pdf'
 citation: 'Chengao Li, Hanyu Zhang, Yunkun Xu, Hongyan Xue, Xiang Ao, and Qing He. 2025. Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 11214–11232, Vienna, Austria. Association for Computational Linguistics.'
 ---
 
